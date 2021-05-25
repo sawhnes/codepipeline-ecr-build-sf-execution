@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# Comment to trigger codepipeline
 image=$1
 
 mkdir -p test_dir/model
